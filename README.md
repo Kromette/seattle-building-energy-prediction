@@ -4,14 +4,14 @@ Machine learning project to predict **building energy consumption** and **CO₂ 
 
 ## Overview
 
-This project uses the **2016 Seattle Building Energy Benchmarking** dataset to investigate whether energy consumption and greenhouse gas emissions can be accurately estimated from building characteristics, reducing the need for costly data collection.
+This project uses the **2016 Seattle Building Energy Benchmarking** dataset to investigate whether energy consumption and greenhouse gas emissions can be estimated from building characteristics, reducing the need for costly data collection.
 
 The project focuses on two prediction tasks:
 
 * Predict **total annual energy consumption**
 * Predict **annual CO₂ emissions**
 
-A particular focus is placed on **feature engineering**, **data leakage prevention**, and **rigorous model evaluation**.
+Particular attention is given to **feature engineering**, **data leakage prevention**, and **rigorous model evaluation**.
 
 ## Objectives
 
@@ -120,29 +120,9 @@ Cross-validation is used during model selection and hyperparameter optimization 
 └── README.md
 ```
 
-## Technologies
+## Tools & methods
 
-* **Python**
-* **Pandas**
-* **NumPy**
-* **Scikit-learn**
-* **Matplotlib**
-* **Seaborn**
-* **Jupyter Notebook**
-
-## Key Skills Demonstrated
-
-* Exploratory Data Analysis
-* Data Cleaning
-* Feature Engineering
-* Regression
-* Machine Learning
-* Cross-Validation
-* Hyperparameter Optimization
-* Model Evaluation
-* Data Visualization
-* Leakage Prevention
-* Interpretable, business-oriented analysis
+**Python** · **Pandas** · **NumPy** · **Scikit-learn** · **Matplotlib** · **Seaborn** · **Jupyter Notebook** · Regression · Feature engineering · Cross-validation · Hyperparameter optimization · Model evaluation · Data visualization
 
 ## Results
 
@@ -162,4 +142,4 @@ See the notebooks for the complete analysis and results.
 
 This project was completed as part of a **Data Scientist training program** and is based on a real-world dataset provided by the City of Seattle.
 
-The project was designed to reproduce a realistic machine learning workflow, from exploratory analysis and feature engineering to model selection and evaluation.
+The project was designed to follow a realistic machine learning workflow, from exploratory analysis and feature engineering to model selection and evaluation.
